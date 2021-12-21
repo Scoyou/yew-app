@@ -1,0 +1,1 @@
+A simple counter app made in Rust using [Yew](https://yew.rs)
